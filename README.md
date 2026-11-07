@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 🚦 MargDarshak (मार्गदर्शक)
 ### Quantum-Inspired Intelligent Traffic Route Optimization & Emergency Green Corridor System
